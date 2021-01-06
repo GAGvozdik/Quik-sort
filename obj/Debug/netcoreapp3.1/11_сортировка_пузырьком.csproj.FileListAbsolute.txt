@@ -1,0 +1,13 @@
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\bin\Debug\netcoreapp3.1\11_сортировка_пузырьком.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\bin\Debug\netcoreapp3.1\11_сортировка_пузырьком.deps.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\bin\Debug\netcoreapp3.1\11_сортировка_пузырьком.runtimeconfig.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\bin\Debug\netcoreapp3.1\11_сортировка_пузырьком.runtimeconfig.dev.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\bin\Debug\netcoreapp3.1\11_сортировка_пузырьком.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\bin\Debug\netcoreapp3.1\11_сортировка_пузырьком.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\obj\Debug\netcoreapp3.1\11_сортировка_пузырьком.csprojAssemblyReference.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\obj\Debug\netcoreapp3.1\11_сортировка_пузырьком.AssemblyInfoInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\obj\Debug\netcoreapp3.1\11_сортировка_пузырьком.AssemblyInfo.cs
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\obj\Debug\netcoreapp3.1\11_сортировка_пузырьком.csproj.CoreCompileInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\obj\Debug\netcoreapp3.1\11_сортировка_пузырьком.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\obj\Debug\netcoreapp3.1\11_сортировка_пузырьком.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\11_сортировка_пузырьком\obj\Debug\netcoreapp3.1\11_сортировка_пузырьком.genruntimeconfig.cache
